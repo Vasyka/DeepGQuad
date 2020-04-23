@@ -1,0 +1,8 @@
+*.pyc
+*.egg*
+*/.ipynb_checkpoints/*
+__pycache__/*
+#*.bed
+*.fa
+*.fa.fai
+*.chrom.sizes
