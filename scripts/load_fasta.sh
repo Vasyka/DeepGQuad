@@ -1,4 +1,5 @@
 #!/bin/bash
+cd ../Data
 chromosomes=({1..22} M X Y)
 
 
@@ -12,7 +13,7 @@ do
 	then
 		gunzip chr$num.fa.gz	
 		# Filter quadruplexes by positions
-		bedtools getfasta -fi chr$num.fa -bed G4_chip.bed -bedOut -tab > chr$num.bed
+		bedtools getfasta -fi chr$num.fa -bed G4_chip_centered.bed -bedOut -tab > chr${num}_centered.bed 2> warnings.txt
 	else
 		echo "Couldn't find chr$num.fa"
 	fi
