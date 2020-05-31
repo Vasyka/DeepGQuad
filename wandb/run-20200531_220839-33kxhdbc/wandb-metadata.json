@@ -1,0 +1,26 @@
+{
+    "root": "/Users/Aska/GitHub/DeepGQuad",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/Vasyka/DeepGQuad.git",
+        "commit": "563aa6e02f306fbbbff83a9a193dd03ed57c784d"
+    },
+    "email": "vvanast@yandex.ru",
+    "startedAt": "2020-05-31T22:08:39.914760",
+    "host": "MacBook-Pro-2.lan",
+    "username": "Aska",
+    "executable": "/Users/Aska/miniconda3/bin/python3",
+    "os": "Darwin-18.7.0-x86_64-i386-64bit",
+    "python": "3.7.6",
+    "cpu_count": 4,
+    "args": [
+        "-f",
+        "/Users/Aska/Library/Jupyter/runtime/kernel-a1dd30bf-4a5f-4994-85a6-bf1681803ce7.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "avid-paper-153",
+    "project": "gquad_hybrid2",
+    "heartbeatAt": "2020-05-31T22:08:41.927888"
+}
