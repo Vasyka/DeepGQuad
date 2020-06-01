@@ -1,3 +1,16 @@
 results/Transformer-XL[[:space:]]models/20200526-113720/model.pt filter=lfs diff=lfs merge=lfs -text
 results/Transformer-XL[[:space:]]models/20200526-113720/model.pt filter=lfs diff=lfs merge=lfs -text
 results/Transformer-XL[[:space:]]models/20200526-113720/model.pt filter=lfs diff=lfs merge=lfs -text
+results/BERT[[:space:]]models/dna_masked_language_modeling_transformer_20-05-27-18-58-27_610560/args.json filter=lfs diff=lfs merge=lfs -text
+results/BERT[[:space:]]models/dna_masked_language_modeling_transformer_20-05-27-18-58-27_610560/checkpoint.bin filter=lfs diff=lfs merge=lfs -text
+results/BERT[[:space:]]models/dna_masked_language_modeling_transformer_20-05-27-18-58-27_610560/config.json filter=lfs diff=lfs merge=lfs -text
+results/BERT[[:space:]]models/dna_masked_language_modeling_transformer_20-05-27-18-58-27_610560/log filter=lfs diff=lfs merge=lfs -text
+results/BERT[[:space:]]models/dna_masked_language_modeling_transformer_20-05-27-18-58-27_610560/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+results/BERT[[:space:]]models/dna_masked_language_modeling_transformer_20-05-27-18-58-27_610560/results.pkl filter=lfs diff=lfs merge=lfs -text
+results/BERT[[:space:]]models/g_quadruplex_transformer_20-05-30-14-21-32_585376/checkpoint.bin filter=lfs diff=lfs merge=lfs -text
+results/BERT[[:space:]]models/g_quadruplex_transformer_20-05-30-15-06-50_711714/results.pkl filter=lfs diff=lfs merge=lfs -text
+results/BERT[[:space:]]models/g_quadruplex_transformer_20-05-30-15-06-50_711714/args.json filter=lfs diff=lfs merge=lfs -text
+results/BERT[[:space:]]models/g_quadruplex_transformer_20-05-30-15-06-50_711714/checkpoint.bin filter=lfs diff=lfs merge=lfs -text
+results/BERT[[:space:]]models/g_quadruplex_transformer_20-05-30-15-06-50_711714/config.json filter=lfs diff=lfs merge=lfs -text
+results/BERT[[:space:]]models/g_quadruplex_transformer_20-05-30-15-06-50_711714/log filter=lfs diff=lfs merge=lfs -text
+results/BERT[[:space:]]models/g_quadruplex_transformer_20-05-30-15-06-50_711714/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
