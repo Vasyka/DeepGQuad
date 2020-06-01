@@ -1,0 +1,5 @@
+FocalLoss(gamma=1, alpha=None)
+| epoch   1 step      200 |    200 batches | lr 6.67e-06 | ms/batch 497.32 | loss 0.377013 | bpc   0.54391
+| epoch   1 step      400 |    400 batches | lr 1.33e-05 | ms/batch 493.25 | loss 0.269062 | bpc   0.38817
+| epoch   1 step      600 |    600 batches | lr 2e-05 | ms/batch 495.63 | loss 0.110784 | bpc   0.15983
+| epoch   1 step      800 |    800 batches | lr 2.67e-05 | ms/batch 489.65 | loss 0.056991 | bpc   0.08222

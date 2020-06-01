@@ -1,0 +1,12 @@
+FocalLoss(gamma=1, alpha=None)
+| epoch   1 step      200 |    200 batches | lr 6.67e-06 | ms/batch 495.67 | loss 0.381222 | bpc   0.54999
+| epoch   2 step      400 |    123 batches | lr 1.33e-05 | ms/batch 515.38 | loss 0.281226 | bpc   0.40572
+| epoch   3 step      600 |     47 batches | lr 2e-05 | ms/batch 518.82 | loss 0.124354 | bpc   0.17941
+| epoch   3 step      800 |    247 batches | lr 2.67e-05 | ms/batch 489.91 | loss 0.061628 | bpc   0.08891
+| epoch   4 step     1000 |    169 batches | lr 3.33e-05 | ms/batch 508.35 | loss 0.033948 | bpc   0.04898
+| epoch   5 step     1200 |     90 batches | lr 4e-05 | ms/batch 514.64 | loss 0.022910 | bpc   0.03305
+| epoch   6 step     1400 |     12 batches | lr 4.67e-05 | ms/batch 511.79 | loss 0.016891 | bpc   0.02437
+| epoch   6 step     1600 |    212 batches | lr 5.33e-05 | ms/batch 481.78 | loss 0.011607 | bpc   0.01675
+| epoch   7 step     1800 |    130 batches | lr 6e-05 | ms/batch 508.84 | loss 0.008858 | bpc   0.01278
+| epoch   8 step     2000 |     52 batches | lr 6.67e-05 | ms/batch 514.14 | loss   nan | bpc       nan
+| epoch   8 step     2200 |    252 batches | lr 7.33e-05 | ms/batch 486.45 | loss   nan | bpc       nan

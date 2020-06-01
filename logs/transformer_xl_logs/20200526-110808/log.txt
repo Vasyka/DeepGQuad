@@ -1,0 +1,1 @@
+FocalLoss(gamma=1, alpha=None)
