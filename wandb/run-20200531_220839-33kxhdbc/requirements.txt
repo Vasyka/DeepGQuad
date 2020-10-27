@@ -16,7 +16,7 @@ click==7.1.2
 conda-package-handling==1.6.0
 conda==4.8.3
 configparser==5.0.0
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
